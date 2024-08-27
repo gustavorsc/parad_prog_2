@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "77cb",
+      "titulo": "Harry Potter",
+      "autor": "JK Roling",
+      "dt_lancamento": "2012",
+      "genero": "Magia",
+      "num_paginas": "235"
+    },
+    {
+      "id": "0888",
+      "titulo": "Carros",
+      "autor": "Disney",
+      "dt_lancamento": "2015",
+      "genero": "Animação",
+      "num_paginas": "15"
+    }
+  ]
+}
